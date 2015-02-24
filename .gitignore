@@ -1,0 +1,4 @@
+/.vagrant
+/static
+*.pyc
+/notify/settings/local.py
